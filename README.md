@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-	<img align="center" src="https://github.com/worldtopcoder/worldtopcoder/blob/main/coding.jpg?raw=true" style="width: 50%" />
+	<img align="center" src="https://github.com/worldtopcoder/worldtopcoder/blob/main/coding.jpg?raw=true" style="width: 100%" />
 </p>
 
 ## About Me
