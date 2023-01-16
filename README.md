@@ -20,11 +20,10 @@ My main strengths are making realistic promises, being responsive and accountabl
     <td><img src="https://github.com/worldtopcoder/worldtopcoder/blob/main/typescript.png" width="200"></td>
     <td><img src="https://github.com/worldtopcoder/worldtopcoder/blob/main/next.png" width="200"></td>
     <td><img src="https://github.com/worldtopcoder/worldtopcoder/blob/main/vue.png" width="200"></td>
-    <td><img src="https://github.com/worldtopcoder/worldtopcoder/blob/main/html.png" width="200"></td>
-    <td><img src="https://github.com/worldtopcoder/worldtopcoder/blob/main/css.png" width="200"></td>
     <td><img src="https://github.com/worldtopcoder/worldtopcoder/blob/main/node.png" width="200"></td>
     +<td><img src="https://github.com/worldtopcoder/worldtopcoder/blob/main/angular.png" width="200"></td>
     <td><img src="https://github.com/worldtopcoder/worldtopcoder/blob/main/bootstrap.png" width="200"></td>
+    <td><img src="https://github.com/worldtopcoder/worldtopcoder/blob/main/solidity.png" width="200"></td>
     <td><img src="https://github.com/worldtopcoder/worldtopcoder/blob/main/java.png" width="200"></td>
     <td><img src="https://github.com/worldtopcoder/worldtopcoder/blob/main/springboot.png" width="200"></td>
   </tr>
@@ -40,7 +39,6 @@ Following the trend, we are currently focusing on blockchain games and ready to 
     <td><img src="https://github.com/worldtopcoder/worldtopcoder/blob/main/bsc.png" width="200"></td>
     <td><img src="https://github.com/worldtopcoder/worldtopcoder/blob/main/matic.png" width="200"></td>
     <td><img src="https://github.com/worldtopcoder/worldtopcoder/blob/main/fantom.png" width="200"></td>
-    <td><img src="https://github.com/worldtopcoder/worldtopcoder/blob/main/solidity.png" width="200"></td>
     <td><img src="https://github.com/worldtopcoder/worldtopcoder/blob/main/solana.png" width="200"></td>
     <td><img src="https://github.com/worldtopcoder/worldtopcoder/blob/main/nft.jpg" width="200"></td>
     +<td><img src="https://github.com/worldtopcoder/worldtopcoder/blob/main/p2e.jpg" width="200"></td>
